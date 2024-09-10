@@ -1,7 +1,7 @@
 {
     "name": "BLADE-MD-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://telegra.ph/file/c5121735684e9a7848a03.jpg",
+    "logo": "https://i.imgur.com/g9W1JPQ.jpeg",
     "keywords": ["Bladeh3x", "BLADE-V2", "BLADE-MD"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/c5121735684e9a7848a03.jpg",
+        "value": "https://i.imgur.com/g9W1JPQ.jpeg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/c5121735684e9a7848a03.jpg"
+        "value": "https://i.imgur.com/g9W1JPQ.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
@@ -103,11 +103,11 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348059540212"
+        "value": "254769365617"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU5QdnNnaXpDWEdRbmdZYnRvU1dUOEM3NkcwTThBQTRLeS85dWVJdkpsQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0lrS2RQajRzaVBnTFhsYjN2cGZPT3R5SUtxS0F5QVBWREJsYm1yd1UwVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlT0w3YjRTS1VjUkRKcVJJWlY0TWxQMnM5M2JCUE8rK1pTbmg1ZWpZRUg0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2OUV3RmpGR0E0SFBKb0JJNVhTUTBMWUJmRlhkSDJBL2FGaGFaWkF2akhJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNFbVpQL2JSdXlOTHdZU1FrS09VQzJXMU5HNnVmM0dvRlMyUmQ0OXZ3V009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJUTlNnWGs5RFhOZGtNRHo2dEJvYkxRMGNnemJMRCtmN0dZUmU2ajFJRFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUJPMGFqbnhXN2NnL3RsMStZeThnZFFxM3FDVkVRSVIxTjNCUGQ5Uk8zdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic2R4OFBRYzh0djhDWDc3aHNaM2ZqQWtRNzZ6WUJXd01jL0pSaHM5dDl6TT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhzV0U1ekpmQkFrRWRWeE0rWDF5eTAzWFl6dzJxQ1hIVWZadDNGbXJ6dzRhek9qYWxVdE51ZW9oNVBFUTAvSTZmZUNMdGpOQkM1Zm91MEh0WXI4a0RnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQ2LCJhZHZTZWNyZXRLZXkiOiJwcUhKT0kyOEJSSzhxMnZtMHcxUElVWEQ2YXB0dTRpVnJnUmxzTzRzenV3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJQOEM1Qkl3c1R5YXlFQnZkNzNaOWZ3IiwicGhvbmVJZCI6Ijg1YzVmNWYxLTYyMDktNDVlYy05YzlmLWE2OTI4OWZkZDJkZiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDMmZtT2RFV0Fsc09MN1J6ZWs4RStXRURzaTA9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiLy9sL0ZJRFRidUNLbkVZaUI5aCs5cGM2Mm1zPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ik1UMUc3MlZaIiwibWUiOnsiaWQiOiIyNTQ3NjkzNjU2MTc6NjJAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0pMdGdQY0RFSWJvZ0xjR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IlVvRUhSZm1PYUl6Vm9ZdXM3dGQ0UTQ5NWRmV2ZNeHVpN3FrMnFKR3IwbUk9IiwiYWNjb3VudFNpZ25hdHVyZSI6InlubVMvVEEranFuR1hvV2h0dWhvRFNYRzV6Wkw4RktVaGtwUHN0QS9uQy83ZitBQ2VIVnA5SWdqRjloWXg3Tk5Kc0JwcTVkenJyRERsSEJvdFQ3YUJBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI5dUkxWWlhVFJpM1VUYkNJK2lLcWZXMEJhYVhqaklIOEdaWWlFbndCeWU0K1dWVldwRk5XQnZZanlYUkV5dVlocThCQ3pqK2h6SnA4MldEV1Y1TDlCQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDc2OTM2NTYxNzo2MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJWS0JCMFg1am1pTTFhR0xyTzdYZUVPUGVYWDFuek1ib3U2cE5xaVJxOUppIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI1OTY5NDI4LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUpPciJ9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
